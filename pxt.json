@@ -1,0 +1,14 @@
+{
+    "name": "RCW-0001",
+    "version": "0.1",
+    "description": "Funduino RCW-0001",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "rcw.ts"
+    ],
+    "testFiles": [],
+    "public": true
+}

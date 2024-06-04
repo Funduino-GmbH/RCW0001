@@ -1,12 +1,7 @@
 
-# BitGo V1.0
+# RCW-0001 Makecode Library
 
 The library facilitates the integration of the RCW-0001 sensor with both the Calliope mini V3 and the MicroBit platforms, supporting operation under a 5V and 3.3V voltage. This Library is designed to measure distances in centimeters. By default, the trigger pin is set to C8, and the echo pin defaults to C9, aligning with the standard configuration requirements of our Calle Roboter.
-
-## Images
-
-![App Screenshot](https://raw.githubusercontent.com/JEAPI-DEV/GNA/main/images/Schematic.png)
-
 
 ## Installation
 
